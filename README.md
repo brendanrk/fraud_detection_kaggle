@@ -14,5 +14,5 @@ Main juptyer notebook
 # My local results:
 ![My local evaluation using different algorithms](assign1/ROC_results.png)
 
-# Best results achveived on Kaggle :unamused: 
+# Best results achieved on Kaggle :unamused: 
 ![The best resullts achveived](assign1/kaggle_best.png)
