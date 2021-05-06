@@ -2,5 +2,5 @@
 
 new result
 
-![result for this notebook](post-assignment/kaggle_late.png)
+![result for this notebook](kaggle_late.png)
 
